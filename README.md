@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Mobile developer hero with UI/UX
 - ⚡ Fun fact: I love to watch Vblogs and play trumpet / sports
+- 📚 2020 Books [The Lean Startup][theleanstartup] 
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -52,3 +53,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[theleanstartup]:https://www.amazon.com/gp/product/0670921602/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
