@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on a [Fintech App! for Developers Industry][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Mobile Developer Hero with UI/UX
-- ⚡ Fun fact: I love to watch vblogs and play trumpet / sports
+- 🥅 2020 Goals: Mobile developer hero with UI/UX
+- ⚡ Fun fact: I love to watch Vblogs and play trumpet / sports
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
