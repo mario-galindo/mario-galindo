@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Fintech App! for Developers Industry][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://www.developersindustry.com/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
