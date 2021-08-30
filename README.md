@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Engineer, Data and Software Developer, I love so much be a tech researcher!
+## Data Engineer and Software Developer, I love so much be a tech researcher!
 
 - 🔭 I’m currently working on a [Fintech App! for Developers Industry][website]!
 - 🌱 I’m currently learning everything 🤣
