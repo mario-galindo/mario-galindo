@@ -13,7 +13,7 @@
 - 📚 2021 Books: [The Lean Startup][TheLeanStartup] & [Microsoft AI MVP Book][MicrosoftAIMVPBook] 🤓
 
 ### Spotify Playing 🎧
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=marioga_lindo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=marioga_lindo&cover_image=true&theme=novatorem)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=marioga_lindo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=marioga_lindo&cover_image=true&theme=novatorem)]
 
 ### Connect with me:
 
