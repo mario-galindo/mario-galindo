@@ -5,7 +5,7 @@
 
 ## Data Engineer and Software Developer, I love so much be a tech researcher!
 
-- 🔭 I’m currently working on a [Fintech App! for Developers Industry][website]!
+- 🔭 I’m currently working on DevOps, Data Pipelines & Intelligence , Full Stack Development!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 
