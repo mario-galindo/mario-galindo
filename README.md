@@ -24,6 +24,7 @@
  <img align="left" src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-data-engineer-associate-600x600.png" width="100" /></td>
 
 <br />
+<br />
 
 
 ### Connect with me:
