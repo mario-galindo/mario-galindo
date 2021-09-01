@@ -18,6 +18,10 @@
 ### ✅ Check my Microsoft Learn Achievements 
 [My Microsoft Learn Badge Gallery](https://docs.microsoft.com/en-us/users/mario-galindo/achievements)
 
+### Some Certificates Earned 
+![Figure 1-1](https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png "Azure Fundamentals")
+
+
 ### Connect with me:
 
 [<img align="left" alt="mario-galindo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
