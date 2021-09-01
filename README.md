@@ -5,7 +5,7 @@
 
 ## Data Engineer and Software Developer, I love so much be a tech researcher!
 
-- 🔭 I’m currently working on **DevOps, Data Pipelines & Intelligence , Full Stack Development!**
+- 🔭 I’m currently working on **DevOps, Data Pipelines, Analytics & Intelligence , Full Stack Development(Dotnet Core - Angular JS)!**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 
