@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **DevOps, Data Pipelines, Analytics & Intelligence , Full Stack Development!**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: 
 - ⚡ Fun fact: I love to watch Vblogs and play trumpet / sports / Development new tech skills
 - 📚 2021 Books: [The Lean Startup][TheLeanStartup] & [Microsoft AI MVP Book][MicrosoftAIMVPBook] 🤓
 
