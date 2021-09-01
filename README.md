@@ -17,12 +17,21 @@
 ### ✅ Check my Microsoft Learn Achievements 
 [My Microsoft Learn Badge Gallery](https://docs.microsoft.com/en-us/users/mario-galindo/achievements)
 
+<br />
+<br />
+<br />
+<br />
+
 ### 🥇 Some Certificates Earned 
 
 <img align="left" src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
  <img align="left" src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-data-fundamentals-600x600.png" width="100" /></td>
  <img align="left" src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-data-engineer-associate-600x600.png" width="100" /></td>
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
