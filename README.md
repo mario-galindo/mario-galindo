@@ -20,6 +20,18 @@
 
 ### 🥇 Some Certificates Earned 
 <img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" />
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Telephone</th>
+    <th>Telephone</th>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>555 77 854</td>
+    <td>555 77 855</td>
+  </tr>
+</table>
 
 
 
