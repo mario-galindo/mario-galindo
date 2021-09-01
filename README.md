@@ -21,11 +21,6 @@
 ### 🥇 Some Certificates Earned 
 <table style="width:100%">
   <tr>
-    <th>Name</th>
-    <th>Telephone</th>
-    <th>Telephone</th>
-  </tr>
-  <tr>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
