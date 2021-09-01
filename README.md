@@ -15,6 +15,9 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marioga_lindo&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
+### ✅ Check my Microsoft Learn Achievements 
+[My Microsoft Learn Badge Gallery](https://docs.microsoft.com/en-us/users/mario-galindo/achievements)
+
 ### Connect with me:
 
 [<img align="left" alt="mario-galindo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personalwebsite]
