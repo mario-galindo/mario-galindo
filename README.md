@@ -17,7 +17,6 @@
 ### ✅ Check my Microsoft Learn Achievements 
 [My Microsoft Learn Badge Gallery](https://docs.microsoft.com/en-us/users/mario-galindo/achievements)
 
-<br />
 
 ### 🥇 Some Certificates Earned 
 
