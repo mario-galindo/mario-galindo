@@ -19,9 +19,7 @@
 
 ### 🥇 Some Certificates Earned 
 
-<table style="table, tr, td {
-    border: none;
-}">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-data-fundamentals-600x600.png" width="100" /></td>
