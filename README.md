@@ -19,8 +19,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ### 🥇 Some Certificates Earned 
 
@@ -32,10 +31,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 ### Connect with me:
