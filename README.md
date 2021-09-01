@@ -20,6 +20,8 @@
 
 ### 🥇 Some Certificates Earned 
 ![Figure 1-1](https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png =100x100 "Azure Fundamentals")
+<img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="200" />
+
 
 
 ### Connect with me:
