@@ -20,8 +20,8 @@
 
 ### 🥇 Some Certificates Earned 
 
-<table style="border:none;">
-  <tr style="border:none;">
+<table style="border: none!important;">
+  <tr style="border: none!important;">
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
     <td><img src="https://raw.github.com/mario-galindo/mario-galindo/master/azure-fundamentals-600x600.png" width="100" /></td>
