@@ -11,9 +11,6 @@
 - ⚡ Fun fact: I love to watch Vblogs and play trumpet / sports / Development new tech skills
 - 📚 2021 Books: [The Lean Startup][TheLeanStartup] & [Microsoft AI MVP Book][MicrosoftAIMVPBook] 🤓
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marioga_lindo&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 ### ✅ Check my Microsoft Learn Achievements 
 [My Microsoft Learn Badge Gallery](https://docs.microsoft.com/en-us/users/mario-galindo/achievements)
 
